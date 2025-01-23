@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou a Ana (ou Naju)!
 
-<!--
-**najuu24/najuu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 17 anos e sou estudante do ensino médio e técnico em Desenvolvimento de Sistemas no SENAI. Sou apaixonada por tecnologia e estou aprendendo cada vez mais sobre programação.
 
-Here are some ideas to get you started:
+### Coisas que eu gosto:
+- 🎮 Jogar no PC
+- 🎧 Ouvir músicas
+- 📺 Assistir vídeos no YouTube
+- 🎬 Maratonar séries e filmes
+- 🐱 Meu animal preferido é o gato!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ainda não trabalho, mas estou focada nos meus estudos e sempre buscando aprender algo novo no mundo da tecnologia.
+
+Se você quiser conversar sobre programação, games, filmes ou qualquer coisa, é só me chamar! 😊
